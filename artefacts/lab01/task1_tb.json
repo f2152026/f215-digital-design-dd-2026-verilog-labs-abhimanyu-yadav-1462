@@ -1,0 +1,82 @@
+{
+  "extensionVersion": "1.5.4",
+  "fileName": "/workspaces/f215-digital-design-dd-2026-verilog-labs-abhimanyu-yadav-1462/artefacts/lab01/task1_tb.vcd",
+  "markerTime": null,
+  "altMarkerTime": null,
+  "displayTimeUnit": "s",
+  "selectedSignal": {
+    "name": "tb.DUT.sum",
+    "msb": -1,
+    "lsb": -1
+  },
+  "zoomRatio": 17.213334147135416,
+  "scrollLeft": 0,
+  "defaultPixelTime": 100,
+  "displayedSignals": [
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 0,
+      "name": "tb.DUT.a",
+      "numberFormat": "binary",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "a",
+      "renderType": "binary",
+      "valueLinkEnable": false
+    },
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 1,
+      "name": "tb.DUT.b",
+      "numberFormat": "binary",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "b",
+      "renderType": "binary",
+      "valueLinkEnable": false
+    },
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 2,
+      "name": "tb.DUT.cin",
+      "numberFormat": "binary",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "cin",
+      "renderType": "binary",
+      "valueLinkEnable": false
+    },
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 4,
+      "name": "tb.DUT.pc1",
+      "numberFormat": "binary",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "pc1",
+      "renderType": "binary",
+      "valueLinkEnable": false
+    },
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 7,
+      "name": "tb.DUT.sum",
+      "numberFormat": "binary",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "sum",
+      "renderType": "binary",
+      "valueLinkEnable": false
+    }
+  ]
+}
