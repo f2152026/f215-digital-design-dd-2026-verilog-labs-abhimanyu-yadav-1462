@@ -1,0 +1,56 @@
+{
+  "extensionVersion": "1.5.4",
+  "fileName": "/workspaces/f215-digital-design-dd-2026-verilog-labs-abhimanyu-yadav-1462/artefacts/lab01/task3_tb.vcd",
+  "markerTime": 27,
+  "altMarkerTime": null,
+  "displayTimeUnit": "s",
+  "selectedSignal": {
+    "name": "tb.DUT.cout",
+    "msb": -1,
+    "lsb": -1
+  },
+  "zoomRatio": 116.9207602446934,
+  "scrollLeft": 0,
+  "defaultPixelTime": 100,
+  "displayedSignals": [
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 2,
+      "name": "tb.DUT.cin",
+      "numberFormat": "binary",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "cin",
+      "renderType": "binary",
+      "valueLinkEnable": false
+    },
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 4,
+      "name": "tb.DUT.cout",
+      "numberFormat": "binary",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "cout",
+      "renderType": "binary",
+      "valueLinkEnable": false
+    },
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 3,
+      "name": "tb.DUT.sum",
+      "numberFormat": "hexadecimal",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "sum",
+      "renderType": "multiBit",
+      "valueLinkEnable": false
+    }
+  ]
+}
