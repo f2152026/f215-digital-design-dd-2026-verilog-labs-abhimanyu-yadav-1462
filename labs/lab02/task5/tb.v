@@ -30,6 +30,9 @@ module tb;
     errors = 0;
     total  = 0;
 
+    // let the DUT's always block start waiting before the first stimulus
+    #1;
+
     for (i = 0; i < 16; i = i + 1) begin
       for (j = 0; j < 16; j = j + 1) begin
         for (k = 0; k < 2; k = k + 1) begin
